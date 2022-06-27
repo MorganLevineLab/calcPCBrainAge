@@ -1,0 +1,14 @@
+Package: calcPCBrainAge
+Type: Package
+Title: Package for PCBrainAge Estimation
+Version: 0.1.0
+Author: person(given = "Kyra L.", family = "Thrush", email = "kyra.thrush@yale.edu",role = c("aut","cre"))
+Maintainer: Kyra Thrush <kyra.thrush@yale.edu>
+Description: This is a small package that contains the necessary components for calculating PCBrainAge
+    as described in "Aging the Brain: Multi-Region Methylation Principal Component Based Clock in the Context of Alzheimer’s Disease"
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
